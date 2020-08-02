@@ -33,7 +33,7 @@ yarn add babel-core
 **-> exec command : yarn dev**
 
 - package.json
-> nodemon : automatically server refresh
+> nodemon : automatically server refresh  
 > --exec babel-node src/server.js : exec "server.js" using babel-node  
 - nodemon.json
 >  "ext": "js graphql" : watching js and graphql files
